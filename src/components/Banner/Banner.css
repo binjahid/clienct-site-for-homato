@@ -1,0 +1,62 @@
+.banner-details {
+  background-image: url("https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png");
+  height: 550px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  flex-direction: column;
+}
+.banner-title {
+  color: rgba(246, 238, 238, 0.904);
+}
+.banner-title h2 {
+  font-family: "Permanent Marker", cursive;
+  text-align: center;
+  font-size: 60px;
+}
+.banner-title .banner-des {
+  font-size: 20px;
+  text-align: center;
+}
+.input-container {
+  position: relative;
+}
+.input-icon {
+  /* background-color: transparent !important */
+  border: 3px solid whitesmoke;
+}
+.input-itselt {
+  background-color: transparent !important;
+}
+.input-label {
+  color: #60ba62;
+  position: absolute;
+  z-index: 1;
+  top: 22px;
+  left: 13px;
+}
+.search-input {
+  width: 600px;
+  outline: none;
+  border-radius: 20px;
+  padding: 5px;
+  border: 2px solid #60ba62;
+  padding-left: 40px;
+}
+.inputBtn {
+  border: none;
+  position: relative;
+  padding: 7px 15px;
+  background-color: #60ba62;
+  border-radius: 20px;
+  right: 70px;
+}
+@media screen and (max-width: 480px) {
+  .search-input {
+    width: 150px;
+    font-size: 10px;
+    padding-left: 15px;
+  }
+  .inputBtn {
+    font-size: 10px;
+  }
+}

@@ -1,0 +1,47 @@
+.form-title {
+  color: #60ba62;
+  font-family: "Fira Sans", sans-serif;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+.logInFormInput {
+  width: 450px;
+  padding: 5px;
+  margin: 10px;
+  border: 1px solid #60ba62;
+  border-radius: 20px;
+  text-align: center;
+  outline: none;
+}
+.form-submit {
+  width: 150px;
+  border: none;
+  margin: auto;
+  background-color: #49ca4bc2;
+  color: white;
+  padding: 5px 0;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.form-log-register {
+  color: #60ba62;
+  text-decoration: underline;
+}
+.form-or {
+  text-decoration: underline;
+  font-size: 15px;
+  color: #60ba62;
+  font-family: "Fira Sans", sans-serif;
+}
+.googleSingInIcon {
+  border: none;
+  padding: 8px 25px;
+  background-color: white;
+  border-radius: 12px 25px;
+  border: 2px solid #60ba62;
+}
+.googleSingInIcon img {
+  margin-right: 7px;
+}

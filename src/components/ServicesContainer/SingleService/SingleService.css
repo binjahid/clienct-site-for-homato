@@ -1,0 +1,26 @@
+.single-service-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 80px;
+  padding-left: 30px;
+  background-color: white;
+}
+.main-container {
+  height: 600px;
+}
+.singleServiceImageContainer {
+  display: flex;
+  justify-content: right;
+}
+.singleServiceImageContainer img {
+  border-radius: 10px;
+}
+.singleServiceTitle {
+  font-size: 15px;
+  text-decoration: underline;
+}
+.singleServiePrice {
+  font-weight: 800;
+}

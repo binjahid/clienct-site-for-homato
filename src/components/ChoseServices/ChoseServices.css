@@ -1,0 +1,24 @@
+.chose-services-container {
+  background-image: url("http://madang.kenzap.com/wp-content/uploads/2016/11/select-program-background.jpg");
+  height: 500px;
+}
+.choiceLogo {
+  height: 500px;
+}
+.choice-form-container {
+  display: flex;
+  flex-direction: column;
+}
+.choice-select-input {
+  width: 550px;
+  padding: 15px;
+  margin-top: 20px;
+  color: #60ba62;
+  border: 2px solid #60ba62;
+  outline: none;
+}
+.choice-logo {
+  font-size: 25px;
+  width: 450px;
+  color: rgba(0, 0, 0, 0.678);
+}

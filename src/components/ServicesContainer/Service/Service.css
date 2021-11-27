@@ -1,0 +1,13 @@
+.card-title-container {
+  font-size: 12px;
+  text-decoration: underline;
+}
+.service-btn-container {
+  border: none;
+  width: 100%;
+  padding: 10px;
+  background-color: #60ba62;
+}
+.card-image-main:hover {
+  transform: scale(1);
+}

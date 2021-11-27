@@ -1,0 +1,12 @@
+.orderBtnContainer {
+  position: relative;
+  right: 10px;
+  width: 105px;
+  margin: auto;
+}
+.orderBtnContainer button {
+  border: none;
+  padding: 6px 10px;
+  background-color: #60ba62;
+  border-radius: 5px;
+}

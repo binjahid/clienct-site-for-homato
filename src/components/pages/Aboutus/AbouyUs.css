@@ -1,0 +1,24 @@
+.who-are-we-title {
+  margin-top: 10px;
+  padding: 0 10px;
+  color: #1bbde4;
+  font-weight: 700;
+  font-size: 20px;
+}
+.who-are-we-slogun {
+  font-size: 35px;
+  font-weight: 900;
+  width: 400px;
+}
+.review-container {
+  width: 450px;
+}
+.review-title {
+  text-align: center;
+}
+.review-secondary-title {
+  text-align: center;
+  font-size: 40px;
+  color: #1bbde4;
+  font-style: italic;
+}

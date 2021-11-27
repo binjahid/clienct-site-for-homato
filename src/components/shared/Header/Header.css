@@ -1,0 +1,13 @@
+.navLinkBtn {
+  display: block;
+  border: none;
+  /* color: #60ba62 !important; */
+  font-weight: 600 !important;
+  transition: 0.5s;
+}
+.headerAnchor {
+  text-decoration: none;
+}
+.navLinkBtn:hover {
+  color: #60ba62 !important;
+}
